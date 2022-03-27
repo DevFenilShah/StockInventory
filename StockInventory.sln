@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "StockInventory", "StockInventory\StockInventory.vbproj", "{BCD5A970-790F-4D07-8AA3-470C3B146F1D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "StockSetup", "StockSetup\StockSetup.vdproj", "{F8553D27-D01F-444D-9105-6610B27C00B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCD5A970-790F-4D07-8AA3-470C3B146F1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCD5A970-790F-4D07-8AA3-470C3B146F1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCD5A970-790F-4D07-8AA3-470C3B146F1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCD5A970-790F-4D07-8AA3-470C3B146F1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8553D27-D01F-444D-9105-6610B27C00B3}.Debug|Any CPU.ActiveCfg = Debug
+		{F8553D27-D01F-444D-9105-6610B27C00B3}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60298F7D-3333-4F92-815D-DBB86FE540E2}
+	EndGlobalSection
+EndGlobal
